@@ -104,10 +104,7 @@
 
 
 ## Current Spotify listen
-<div align="center">
-  <img scr="(https://spotify-github-profile.vercel.app/api/view?uid=314jkycyw222gnx2ggcly5lwwdkm&cover_image=true&theme=default&show_offline=false&bar_color=764eb1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=314jkycyw222gnx2ggcly5lwwdkm&redirect=true" align="center" />
-
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314jkycyw222gnx2ggcly5lwwdkm&cover_image=true&theme=default&show_offline=false&bar_color=764eb1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=314jkycyw222gnx2ggcly5lwwdkm&redirect=true)
   
 
 <br/>  
