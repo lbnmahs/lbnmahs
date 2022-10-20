@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif" align="center" style="width: 100%" />
+<img src="https://code.org/images/hoc2022-banner.png" align="center" style="width: 100%" />
 </div>  
   
 
