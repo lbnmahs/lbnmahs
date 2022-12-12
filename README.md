@@ -95,9 +95,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lbnmahs&&style=flat-square" align="center" />
-</div>  
+
   
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lbnmahs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
