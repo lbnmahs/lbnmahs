@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on my web portfolio  
   
 
-- 🌱 I’m currently learning Mobile development with Kotlin and Flutter  
+- 🌱 I’m currently learning Mobile development with Flutter  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I am a very good dancer  
+- ⚡ Fun fact: I code at 3am
   
 
 <br/>  
