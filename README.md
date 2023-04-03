@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Laban, a Creative Full-stack Web Developer 👨‍💻 based in Kenya</div>  
+### <div align="center">I'm Laban, a Creative Full-stack Software Developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on my web portfolio  
